@@ -1,4 +1,3 @@
-📄 README.md
 # 🚢 Titanic Survival Prediction – Logistic Regression (From Scratch)
 
 This project implements a **Logistic Regression model from scratch (using only NumPy)** to predict passenger survival on the famous **Titanic dataset**.
