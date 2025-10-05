@@ -108,9 +108,8 @@ titanic-logistic-regression/
 
 ## 👩‍💻 Author
 
-**Vyshu Devasani**  
-📧 [Your Email Here]  
-🌐 [GitHub Profile](https://github.com/yourusername)
+**Vaishnapallavi Devasani**  
+📧 vaishnapallavidevasani@gmail.com  
 
 ---
 
